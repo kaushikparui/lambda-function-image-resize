@@ -1,0 +1,1 @@
+# lambda-funxction-image-resize
